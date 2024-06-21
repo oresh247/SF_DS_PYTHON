@@ -1,0 +1,112 @@
+[
+	{
+		"id": 24433,
+		"login": "vtb4061684@corp.dev.vtb",
+		"firstName": "Максим",
+		"patronymic": "Александрович",
+		"lastName": "Яременко",
+		"email": "yaremenko@vtb.ru",
+		"color": "Special/Static Light Green",
+		"activityStatus": "active"
+	},
+	{
+		"id": 25308,
+		"login": "vtb4064890@corp.dev.vtb",
+		"firstName": "Николай",
+		"patronymic": "Леонидович (4064890)",
+		"lastName": "Чирков",
+		"email": "nlchirkov@dev.vtb.ru",
+		"color": "Special/Static Cyan",
+		"activityStatus": "active"
+	},
+	{
+		"id": 26847,
+		"login": "vtb4068421@corp.dev.vtb",
+		"firstName": "Александр",
+		"patronymic": "Васильевич (4068421)",
+		"lastName": "Орешкин",
+		"email": "avoreshkin@dev.vtb.ru",
+		"color": "Special/Static Dark Cyan",
+		"activityStatus": "active"
+	},
+	{
+		"id": 26892,
+		"login": "vtb4068545@corp.dev.vtb",
+		"firstName": "Игорь",
+		"patronymic": "Андреевич (4068545)",
+		"lastName": "Росенков",
+		"email": "iarosenkov@dev.vtb.ru",
+		"color": "Special/Static Light Yellow",
+		"activityStatus": "active"
+	},
+	{
+		"id": 28823,
+		"login": "vtb4079122@corp.dev.vtb",
+		"firstName": "Алиса",
+		"patronymic": "Александровна (4079122)",
+		"lastName": "Смирнова",
+		"email": "smirnova.aa@dev.vtb.ru",
+		"color": "Special/Static Lime",
+		"activityStatus": "active"
+	},
+	{
+		"id": 29674,
+		"login": "vtb4084872@corp.dev.vtb",
+		"firstName": "Дмитрий",
+		"patronymic": "Викторович (4084872)",
+		"lastName": "Кулагин",
+		"email": "d.kulagin@dev.vtb.ru",
+		"color": "Special/Static Light Purple",
+		"activityStatus": "active"
+	},
+	{
+		"id": 43915,
+		"login": "vtb4058076@corp.dev.vtb",
+		"firstName": "Антон",
+		"patronymic": "Константинович (4058076)",
+		"lastName": "Богун",
+		"email": "abogun@dev.vtb.ru",
+		"color": "Special/Static Orange",
+		"activityStatus": "active"
+	},
+	{
+		"id": 52856,
+		"login": "vtb70189110@corp.dev.vtb",
+		"firstName": "Денис",
+		"patronymic": "Борисович",
+		"lastName": "Эльканов",
+		"email": "VTB70189110@dev.vtb.ru",
+		"color": "Special/Static Dark Red",
+		"activityStatus": "active"
+	},
+	{
+		"id": 53131,
+		"login": "vtb70167398@corp.dev.vtb",
+		"firstName": "Амир",
+		"patronymic": "Илдарович",
+		"lastName": "Хисамиев",
+		"email": "aihisamiev@dev.vtb.ru",
+		"color": "Special/Static Dark Red",
+		"activityStatus": "active"
+	},
+	{
+		"id": 56421,
+		"login": "vtb4101141@corp.dev.vtb",
+		"firstName": "Сулим",
+		"patronymic": "Саид-Ахмадович (4101141)",
+		"lastName": "Эдильсултанов",
+		"email": "edilsultanov@dev.vtb.ru",
+		"color": "Special/Static Dark Green",
+		"activityStatus": "active"
+	},
+	{
+		"id": 57428,
+		"login": "vtb70207907@corp.dev.vtb",
+		"firstName": "Кристина",
+		"patronymic": "Сергеевна",
+		"lastName": "Рубан",
+		"email": "VTB70207907@dev.vtb.ru",
+		"color": "Special/Static Dark Cyan",
+		"activityStatus": "active"
+	}
+]
